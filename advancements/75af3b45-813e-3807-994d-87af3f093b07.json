@@ -734,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-03-14 01:00:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-02-28 23:42:16 -0300"
@@ -1947,6 +1953,7 @@
       "baked_potato": "2022-02-28 23:49:31 -0300",
       "cooked_cod": "2022-02-25 23:53:57 -0300",
       "bread": "2022-02-25 22:54:37 -0300",
+      "cookie": "2022-03-14 01:11:57 -0300",
       "cooked_chicken": "2022-03-04 00:03:49 -0300",
       "cooked_salmon": "2022-02-25 23:16:31 -0300",
       "carrot": "2022-02-28 23:21:58 -0300"

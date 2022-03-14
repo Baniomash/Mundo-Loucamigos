@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-03-13 23:50:15 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-03-01 01:12:06 -0300"
@@ -1320,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2022-03-14 00:45:12 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2022-03-02 00:50:18 -0300"
@@ -1488,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-03-13 23:36:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-03-05 00:18:21 -0300"
@@ -1557,6 +1575,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-03-01 00:40:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-03-13 23:50:15 -0300"
     },
     "done": true
   },
@@ -1669,6 +1693,7 @@
       "minecraft:jagged_peaks": "2022-03-01 23:07:10 -0300",
       "minecraft:cold_ocean": "2022-03-05 01:07:26 -0300",
       "minecraft:forest": "2022-02-27 23:49:37 -0300",
+      "minecraft:desert": "2022-03-13 23:45:48 -0300",
       "minecraft:ocean": "2022-02-28 22:24:30 -0300",
       "minecraft:frozen_peaks": "2022-03-01 23:17:42 -0300",
       "minecraft:old_growth_birch_forest": "2022-03-02 00:22:01 -0300",
@@ -1687,6 +1712,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-28 23:53:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-03-13 23:36:35 -0300"
     },
     "done": true
   },
