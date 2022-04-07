@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-04-07 00:13:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-13 23:13:37 -0300"
@@ -317,6 +323,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-04-07 00:12:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2022-04-06 22:13:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2022-04-03 23:36:33 -0300"
@@ -379,6 +397,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cookie": "2022-04-07 00:31:52 -0300",
       "carrot": "2022-03-13 23:15:21 -0300"
     },
     "done": false
@@ -392,6 +411,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-04-04 00:02:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-04-07 00:12:08 -0300"
     },
     "done": true
   },
@@ -757,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-04-06 22:13:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-04-05 22:33:17 -0300"
@@ -845,9 +876,16 @@
     "criteria": {
       "minecraft:pillager": "2022-03-14 00:07:27 -0300",
       "minecraft:skeleton": "2022-03-14 01:00:47 -0300",
+      "minecraft:ravager": "2022-04-07 00:00:51 -0300",
+      "minecraft:vindicator": "2022-04-06 23:59:36 -0300",
       "minecraft:spider": "2022-03-14 00:06:49 -0300",
+      "minecraft:creeper": "2022-04-07 00:11:24 -0300",
+      "minecraft:evoker": "2022-04-07 00:03:48 -0300",
       "minecraft:phantom": "2022-04-04 00:26:11 -0300",
-      "minecraft:husk": "2022-03-14 01:00:21 -0300"
+      "minecraft:witch": "2022-04-07 00:01:50 -0300",
+      "minecraft:husk": "2022-03-14 01:00:21 -0300",
+      "minecraft:zombie": "2022-04-07 01:05:32 -0300",
+      "minecraft:drowned": "2022-04-06 22:28:23 -0300"
     },
     "done": false
   },
@@ -902,6 +940,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2022-03-14 01:00:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-04-07 00:12:08 -0300"
     },
     "done": true
   },
@@ -1283,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-04-07 00:35:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2022-03-14 01:00:36 -0300"
@@ -1439,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-04-07 00:09:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-04-03 23:35:14 -0300"
@@ -1469,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-04-06 22:13:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-04-05 23:20:41 -0300"
@@ -1490,6 +1552,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_hoe": "2022-03-13 23:14:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-04-07 00:12:08 -0300"
     },
     "done": true
   },
@@ -1842,6 +1910,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-04-06 22:53:51 -0300",
       "minecraft:nether_wastes": "2022-03-14 00:03:14 -0300",
       "minecraft:soul_sand_valley": "2022-03-14 00:03:56 -0300"
     },
