@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-03-14 00:03:14 -0300"
@@ -176,6 +182,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-03-13 23:20:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 00:23:14 -0300"
     },
     "done": true
   },
@@ -419,8 +431,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2022-04-08 22:28:51 -0300",
       "cookie": "2022-04-07 00:31:52 -0300",
       "carrot": "2022-03-13 23:15:21 -0300"
     },
@@ -489,6 +508,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2022-03-14 00:16:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
     },
     "done": true
   },
@@ -588,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-03-13 23:14:51 -0300"
@@ -603,6 +634,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-03-13 23:28:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
     },
     "done": true
   },
@@ -955,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 00:23:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-03-14 00:03:14 -0300"
@@ -1135,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-04-08 22:33:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-13 23:13:37 -0300"
@@ -1144,6 +1193,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2022-03-14 00:16:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
     },
     "done": true
   },
@@ -1471,6 +1526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2022-03-14 00:00:42 -0300"
@@ -1507,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-04-05 21:54:57 -0300"
@@ -1522,6 +1589,12 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2022-04-04 00:04:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
     },
     "done": true
   },
@@ -1570,6 +1643,12 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2022-04-07 00:09:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
     },
     "done": true
   },
@@ -1639,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 00:23:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-04-05 22:47:51 -0300"
@@ -1666,6 +1751,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2022-04-05 22:35:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 00:23:14 -0300"
     },
     "done": true
   },
@@ -1724,6 +1815,7 @@
       "minecraft:river": "2022-03-13 23:12:06 -0300",
       "minecraft:forest": "2022-04-05 22:27:43 -0300",
       "minecraft:desert": "2022-03-14 00:04:34 -0300",
+      "minecraft:warm_ocean": "2022-04-08 22:32:33 -0300",
       "minecraft:plains": "2022-03-13 23:12:38 -0300"
     },
     "done": false
@@ -2003,6 +2095,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-03-13 23:26:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2022-04-08 23:18:51 -0300"
     },
     "done": true
   },
