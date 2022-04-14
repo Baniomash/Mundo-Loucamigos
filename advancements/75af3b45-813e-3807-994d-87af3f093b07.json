@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-02-25 22:57:13 -0300"
@@ -759,9 +765,12 @@
     "criteria": {
       "minecraft:pillager": "2022-04-08 22:29:38 -0300",
       "minecraft:skeleton": "2022-02-25 23:18:25 -0300",
+      "minecraft:ravager": "2022-04-13 21:33:35 -0300",
+      "minecraft:vindicator": "2022-04-13 21:34:20 -0300",
       "minecraft:spider": "2022-02-25 23:35:33 -0300",
       "minecraft:creeper": "2022-02-25 22:45:27 -0300",
       "minecraft:evoker": "2022-04-07 00:05:53 -0300",
+      "minecraft:slime": "2022-04-14 00:48:31 -0300",
       "minecraft:phantom": "2022-03-01 23:38:42 -0300",
       "minecraft:witch": "2022-03-01 23:56:21 -0300",
       "minecraft:husk": "2022-04-07 00:07:50 -0300",
@@ -882,9 +891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2022-02-26 23:33:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-04-13 21:34:20 -0300"
     },
     "done": true
   },
@@ -921,6 +942,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2022-03-01 00:44:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
     },
     "done": true
   },
@@ -1071,6 +1098,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-03-01 00:34:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
     },
     "done": true
   },
@@ -1431,6 +1464,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-26 22:29:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
     },
     "done": true
   },
@@ -2096,6 +2135,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-26 23:32:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
     },
     "done": true
   },
@@ -3016,6 +3061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2022-03-05 00:20:07 -0300"
@@ -3442,6 +3493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-03-05 23:52:21 -0300"
@@ -3565,6 +3622,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_cut_red_sandstone": "2022-04-09 22:20:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2022-04-13 22:39:32 -0300"
     },
     "done": true
   },
