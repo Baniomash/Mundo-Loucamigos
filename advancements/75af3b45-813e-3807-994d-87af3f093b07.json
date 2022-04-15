@@ -1521,6 +1521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2022-04-14 23:38:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-02-25 22:58:21 -0300"
@@ -2000,6 +2006,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2022-04-14 23:07:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2022-04-14 23:38:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-03-09 22:44:19 -0300"
@@ -2021,6 +2039,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-02-26 23:42:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2022-04-14 23:07:13 -0300"
     },
     "done": true
   },
@@ -2433,6 +2457,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-03-01 00:34:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2022-04-14 23:07:13 -0300"
     },
     "done": true
   },
@@ -2872,6 +2902,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-03-10 23:31:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2022-04-14 23:38:43 -0300"
     },
     "done": true
   },
