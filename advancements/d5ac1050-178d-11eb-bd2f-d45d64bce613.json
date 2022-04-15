@@ -721,11 +721,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-04-15 11:25:06 -0300",
       "minecraft:skeleton": "2022-02-24 23:01:23 -0300",
       "minecraft:ghast": "2022-02-28 22:33:40 -0300",
+      "minecraft:vindicator": "2022-04-15 11:32:45 -0300",
       "minecraft:magma_cube": "2022-03-06 17:31:25 -0300",
       "minecraft:spider": "2022-02-24 23:00:33 -0300",
       "minecraft:creeper": "2022-02-24 23:42:28 -0300",
+      "minecraft:evoker": "2022-04-15 11:49:37 -0300",
       "minecraft:phantom": "2022-02-25 23:34:55 -0300",
       "minecraft:witch": "2022-03-09 00:21:01 -0300",
       "minecraft:piglin": "2022-03-05 22:59:01 -0300",
@@ -853,6 +856,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2022-03-03 00:13:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-04-15 11:25:06 -0300"
     },
     "done": true
   },
@@ -1976,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-04-15 11:54:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-02-25 00:14:49 -0300"
@@ -2669,6 +2684,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-27 00:22:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-04-15 11:33:44 -0300"
     },
     "done": true
   },
